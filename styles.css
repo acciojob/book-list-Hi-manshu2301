@@ -1,1 +1,73 @@
 /*  your css code here. If applicable */
+body{
+	font-family:Arial;
+	background: #f4f4f4;
+	padding:30px
+}
+h1{
+	text-align:center;
+	margin-bottom:30px;
+}
+h1 span{
+	color: lightblue;
+}
+.container{
+	width:80%;
+	margin:auto;
+	background:white;
+	padding:20px;
+	
+}
+.form-group{
+	margin-bottom:15px;
+}
+input{
+	width:100%;
+	padding:10px;
+	font-size:16px;
+	border:1px solid grey;
+	
+}
+#submit{
+	padding:10px;
+	background:blue;
+	color:white;
+}
+table{
+	width:100%;
+	margin-top:30px;
+	border-collapse:collapse;
+}
+th{
+	background:white;
+	text-decoration:bold;
+	color:black;
+	padding:12px;
+}
+td{
+	padding:12px;
+	background:whitesmoke;
+	color:black;
+}
+.delete{
+	background:crimson;
+	color:white;
+	border:none;
+	width:35px;
+	height:35px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
