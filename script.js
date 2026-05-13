@@ -21,7 +21,7 @@ submit.addEventListener("click",function(){
 
 	document.getElementById("title").value="";
 	document.getElementById("author").value="";
-	document.getElementById("value").value="";
+	document.getElementById("isbn").value="";
 	
 });
 bookList.addEventListener("click",function(e){
